@@ -1,4 +1,4 @@
-# first-repo
+# first-repo ![New to GitHub](https://github.blog/wp-content/uploads/2024/05/GitHub-for-beginners.png?w=1536)
 # My First GitHub Repository 🚀
 
 Welcome to my first GitHub repository! This is where I will practice using GitHub and version control.
@@ -21,3 +21,5 @@ I’m [Miguel Albuquerque](https://github.com/migalb5), an aspiring developer!
 ## 🎯 Next Steps:
 - Add more content to this repository.
 - Learn how to push changes using Git.
+
+## Other Interests: [Regular Expressions](https://github.com/madisonmay/CommonRegex)
