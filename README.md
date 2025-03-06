@@ -1,5 +1,5 @@
 # first-repo ![New to GitHub](https://github.blog/wp-content/uploads/2024/05/GitHub-for-beginners.png?w=1536)
-# My First GitHub Repository 🚀
+# My First GitHub Repository 🚀 (this is a dummy change)
 
 Welcome to my first GitHub repository! This is where I will practice using GitHub and version control.
 
